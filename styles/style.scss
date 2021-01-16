@@ -393,13 +393,13 @@ main{
 
 .flash-img-A{
     margin-bottom: 10px;
-    background-image: url('/images/ikoyi.jpg');
+    background-image: url('./images/ikoyi.jpg');
     background-size: cover;
     background-position: right;
 }
 
 .flash-img-C{
-    background-image: url('/images/books.jpg');
+    background-image: url('./images/books.jpg');
     background-size: cover;
 }
 
@@ -412,7 +412,7 @@ main{
 }
 
 .flash-img-B{
-    background-image: url('/images/gavel.jpg');
+    background-image: url('./images/gavel.jpg');
     background-size: cover;
     background-position: right;
 }
